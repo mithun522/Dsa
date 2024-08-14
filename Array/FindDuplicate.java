@@ -2,6 +2,7 @@ package Array;
 
 import java.util.HashSet;
 
+// https://leetcode.com/problems/find-the-duplicate-number/description/
 public class FindDuplicate {
 
     // Brute force approach

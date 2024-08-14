@@ -1,31 +1,25 @@
 package Array;
 
 public class RemoveDuplicates {
+
     public static int removeDuplicates(int[] nums) {
+
         int n = nums.length;
-        if (n == 0) return 0;
+        int arr[] = new int[n];
 
-        int count = 0;
-
-        for (int i = 0; i < n; i++) {
-            if (count < 2 || nums[i] != nums[count - 2]) {
-                nums[count] = nums[i]; // Modify the array in place
-                count++;
+        for(int i = 0; i < n - 1; i++) {
+            if(nums[i] == nums[i + 1]) {
+                nums[n - i] = nums[i]; 
             }
         }
 
-        return count; // Return the length of the modified array
+        for(int i : nums) System.out.println(i);
+
+        return -1;
     }
 
     public static void main(String[] args) {
-        int[] nums = {1, 1, 1, 2, 2, 3};
-        int k = removeDuplicates(nums);
-
-        // Print the modified array
-        System.out.print("Modified array: ");
-        for (int i = 0; i < k; i++) {
-            System.out.print(nums[i] + " ");
-        }
-        System.out.println("\nLength of modified array: " + k);
+        int[] arr = { 0, 0, 1, 1, 1, 1, 2, 3, 4, 4 };
+        System.out.println(removeDuplicates(arr));
     }
 }

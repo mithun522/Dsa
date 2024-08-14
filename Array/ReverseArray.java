@@ -3,11 +3,15 @@ package Array;
 public class ReverseArray {
 
     private static void reverseArray(int[] arr) {
-        int[] newArr = new int[arr.length];
-        int count = 0;
-        for(int i = arr.length - 1; i >=0 ; i--) {
-            newArr[i + count ] = arr[i];
-            count++;
+        int n = arr.length;
+        int start = 0, end = n - 1;
+        
+        while (start < end) {
+            int temp = arr[start];
+            arr[start] = arr[end];
+            arr[end] = temp;
+            start++;
+            end--;
         }
 
         for(int i : arr) System.out.println(i);
