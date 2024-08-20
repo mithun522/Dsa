@@ -1,0 +1,301 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BuyAndSellStock_1",
+            "request": "launch",
+            "mainClass": "Array.BuyAndSellStock_1",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "LemonadeChange",
+            "request": "launch",
+            "mainClass": "Array.Easy.LemonadeChange",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "FindDuplicate",
+            "request": "launch",
+            "mainClass": "Array.FindDuplicate",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "FindMedianSortedArrays",
+            "request": "launch",
+            "mainClass": "Array.Hard.FindMedianSortedArrays",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "FirstMissingPositive",
+            "request": "launch",
+            "mainClass": "Array.Hard.FirstMissingPositive",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "InsertElement",
+            "request": "launch",
+            "mainClass": "Array.InsertElement",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "MaxSumSubArray",
+            "request": "launch",
+            "mainClass": "Array.MaxSumSubArray",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "SingleNumber_2",
+            "request": "launch",
+            "mainClass": "Array.Medium.SingleNumber_2",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "ThreeSum",
+            "request": "launch",
+            "mainClass": "Array.Medium.ThreeSum",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "MinimumSizeSubArraySum",
+            "request": "launch",
+            "mainClass": "Array.MinimumSizeSubArraySum",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "ProductExceptSelf",
+            "request": "launch",
+            "mainClass": "Array.ProductExceptSelf",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "Array.RemoveDuplicates",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicates_1",
+            "request": "launch",
+            "mainClass": "Array.RemoveDuplicates_1",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicates_2",
+            "request": "launch",
+            "mainClass": "Array.RemoveDuplicates_2",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "Array.ReverseArray",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "SingleNumber_1",
+            "request": "launch",
+            "mainClass": "Array.SingleNumber_1",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "SortArray",
+            "request": "launch",
+            "mainClass": "Array.SortArray",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "SortColors",
+            "request": "launch",
+            "mainClass": "Array.SortColors",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "TheInvertingFactor",
+            "request": "launch",
+            "mainClass": "Array.TheInvertingFactor",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "FirstAndLastPosition",
+            "request": "launch",
+            "mainClass": "BinarySearch.FirstAndLastPosition",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "SearchInRotatedSortedArray",
+            "request": "launch",
+            "mainClass": "BinarySearch.SearchInRotatedSortedArray",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "TwoSum",
+            "request": "launch",
+            "mainClass": "HashTable.TwoSum",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommonPrefix",
+            "request": "launch",
+            "mainClass": "Math.LongestCommonPrefix",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "PrefixSum",
+            "request": "launch",
+            "mainClass": "Math.PrefixSum",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "ReverseInteger",
+            "request": "launch",
+            "mainClass": "Math.ReverseInteger",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "RomanToInteger",
+            "request": "launch",
+            "mainClass": "Math.RomanToInteger",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigitsPalindromeOrNot",
+            "request": "launch",
+            "mainClass": "Math.SumOfDigitsPalindromeOrNot",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "FindDuplicate(1)",
+            "request": "launch",
+            "mainClass": "Practice.FindDuplicate",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "FindSingleNumber",
+            "request": "launch",
+            "mainClass": "Practice.FindSingleNumber",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "PalindromicNumber",
+            "request": "launch",
+            "mainClass": "Practice.PalindromicNumber",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "SearchInRotatedSorteArray",
+            "request": "launch",
+            "mainClass": "Practice.SearchInRotatedSorteArray",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "MaxProductSubArray",
+            "request": "launch",
+            "mainClass": "SlidingWindow.MaxProductSubArray",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "MaxSubArray",
+            "request": "launch",
+            "mainClass": "SlidingWindow.MaxSubArray",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "MaxSubString",
+            "request": "launch",
+            "mainClass": "Strings.MaxSubString",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "MultiplyStrings",
+            "request": "launch",
+            "mainClass": "Strings.MultiplyStrings",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicateLetters",
+            "request": "launch",
+            "mainClass": "Strings.RemoveDuplicateLetters",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicates(1)",
+            "request": "launch",
+            "mainClass": "Strings.RemoveDuplicates",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "RemoveKDigits",
+            "request": "launch",
+            "mainClass": "Strings.RemoveKDigits",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "ThreeSum(1)",
+            "request": "launch",
+            "mainClass": "TwoPointers.ThreeSum",
+            "projectName": "dsa_982ababa"
+        },
+        {
+            "type": "java",
+            "name": "ValidPalindrome",
+            "request": "launch",
+            "mainClass": "TwoPointers.ValidPalindrome",
+            "projectName": "dsa_982ababa"
+        }
+    ]
+}

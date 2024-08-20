@@ -2,7 +2,7 @@ package Array;
 
 import java.util.HashMap;
 
-public class SingleNumber {
+public class SingleNumber_1 {
 
     public static int singleNumber(int[] nums) {
         int n = nums.length;
